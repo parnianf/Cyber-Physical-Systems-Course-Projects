@@ -1,0 +1,3 @@
+[submodule "Motion-Controlled-Pong-Game"]
+	path = Motion-Controlled-Pong-Game
+	url = https://github.com/parnianf/Motion-Controlled-Pong-Game.git
