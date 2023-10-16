@@ -1,3 +1,6 @@
 [submodule "Motion-Controlled-Pong-Game"]
 	path = Motion-Controlled-Pong-Game
 	url = https://github.com/parnianf/Motion-Controlled-Pong-Game.git
+[submodule "Arduino-Smart-Flower-Pot"]
+	path = Arduino-Smart-Flower-Pot
+	url = https://github.com/parnianf/Arduino-Smart-Flower-Pot.git
